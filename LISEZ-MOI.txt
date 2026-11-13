@@ -1,0 +1,10 @@
+FABI CINE – application installable
+
+1) Mettez ce dossier en ligne (gratuit, en HTTPS) :
+   - Netlify : allez sur app.netlify.com/drop et glissez tout le dossier ;
+   - ou Cloudflare Pages / GitHub Pages.
+2) Ouvrez l'adresse obtenue sur le téléphone :
+   - Android (Chrome) : bouton « 📲 Installer » en haut, ou menu ⋮ > Installer l'application ;
+   - iPhone (Safari) : Partager > Sur l'écran d'accueil.
+3) Admin : appuyez 5 fois vite sur le logo « Fabi Cine ». Mot de passe : celui que vous avez choisi
+4) Pour un vrai fichier APK Android : donnez l'adresse de votre site sur pwabuilder.com.
